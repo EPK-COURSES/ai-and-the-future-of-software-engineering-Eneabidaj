@@ -2,15 +2,17 @@
 
 ## 1. Introduction
 
-Artificial Intelligence is becoming an important part of modern software engineering, especially in testing, debugging, automation, and software maintenance. In the past, software engineers had to manually write most test cases, inspect errors, and search for bugs through code reviews or debugging tools. Today, AI-supported tools can help generate test cases, detect possible bugs, suggest fixes, and automate parts of the development workflow.
+Artificial Intelligence is becoming a part of making software these days especially when it comes to testing finding mistakes automating things and keeping the software running smoothly. In the past people who made software had to write most of the tests by hand look for errors and search for problems in the code by checking it over and over or using tools. Now tools that use Artificial Intelligence can help make tests find problems suggest ways to fix them and automate some of the work that software engineers do.
 
-However, AI does not remove the responsibility of the software engineer. AI-generated tests and debugging suggestions can be useful, but they can also be incomplete, incorrect, or misleading. For this reason, human supervision remains necessary. This research focuses on how AI is changing software testing, debugging, and automation, while also analyzing the risks, reliability problems, and skills software engineers still need.
+Artificial Intelligence does not mean that software engineers do not have to pay attention anymore. Tests and suggestions made by Artificial Intelligence can be helpful. They can also be wrong, incomplete or not quite right. So it is still important for humans to check everything. This research is about how Artificial Intelligence's changing the way we test find mistakes and automate software and it is also about the potential problems, issues, with reliability and skills that software engineers still need to have.
 
 ## 2. Background
 
-Software testing is the process of checking whether software behaves correctly and satisfies its requirements. Debugging is the process of finding and fixing errors in a program. Automation in software engineering refers to using tools and scripts to perform repeated development tasks, such as running tests, checking code quality, or deploying software.
+Software testing is really about making sure the software does what it is supposed to do. We need to check if it works correctly and does everything it should. Debugging is like finding and fixing mistakes in a program.
 
-AI can support these activities by analyzing code, predicting possible defects, generating test inputs, explaining error messages, and assisting in continuous integration and continuous deployment pipelines.
+Automation, in software engineering is when we use tools and scripts to do tasks that we have to do over and over like running tests or checking the quality of the code. We also use it to put the software there for people to use.
+
+Artificial intelligence can help with these things by looking at the code and trying to figure out where problems might be. It can also come up with test ideas. Help us understand what is going wrong when we get error messages.. It can assist us when we are putting everything together and getting it ready to go out to people.
 
 ## 3. AI-Generated Test Cases
 

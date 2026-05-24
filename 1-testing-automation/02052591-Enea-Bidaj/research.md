@@ -34,7 +34,15 @@ However, the CI/CD process should not run fully automatically with the guidance 
 
 ## 6. Benefits of AI in Testing and Debugging
 
-[To be completed after collecting references.]
+## 6. Advantages of AI in Testing and Debugging 
+
+In the areas of testing and debugging, AI is beneficial as it aids developers to work faster and reduces repetitive tasks. In testing, AI can help create initial test cases, provide suggestions for edge cases and assist the developer in thinking about conditions the team might have missed. This is beneficial since testing can take up a large amount of time, especially with larger projects, and when the checks need to cover numerous functions. Some tools like GitHub Copilot aid in the beginning of the test creation phase [1].
+
+Another benefit is increased test coverage. Test coverage is defined as how much of the code is tested by tests. Low coverage would result in undiscovered bugs until users experience them, and test suggestions can provide better coverage over the different portions of the application using the tool Diffblue that can generate unit tests to increase test coverage of codebases [5].
+
+In debugging, AI assists in the analysis of an error message by explaining what the error likely is and giving indications on how to start tackling it. This is beneficial for beginners as some error messages can be tricky, while it saves experienced developers time with large codebases and unfamiliar codebases of other authors.
+
+Finally, AI can also benefit teams with an early detection of bugs, with tests and CI/CD environments. Failure in tests, build errors, or reoccurring issues can be observed using AI, before sending any unstable software to the users. These advantages can only be useful if the developer checks the results provided by AI as while AI saves time and aids test processes, final responsibility lies with the software engineer.
 
 ## 7. Risks and Limitations
 

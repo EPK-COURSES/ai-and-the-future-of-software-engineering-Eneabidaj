@@ -32,8 +32,6 @@ AI may also be utilized to improve software maintenance. Maintenance means updat
 
 However, the CI/CD process should not run fully automatically with the guidance of AI and without human checking. AI advice may be inaccurate, it could hide a real problem, or weak code could pass through the process. Therefore, AI should act as support and assistance rather than as a replacement for engineers when helping with automation and maintenance.
 
-## 6. Benefits of AI in Testing and Debugging
-
 ## 6. Advantages of AI in Testing and Debugging 
 
 In the areas of testing and debugging, AI is beneficial as it aids developers to work faster and reduces repetitive tasks. In testing, AI can help create initial test cases, provide suggestions for edge cases and assist the developer in thinking about conditions the team might have missed. This is beneficial since testing can take up a large amount of time, especially with larger projects, and when the checks need to cover numerous functions. Some tools like GitHub Copilot aid in the beginning of the test creation phase [1].

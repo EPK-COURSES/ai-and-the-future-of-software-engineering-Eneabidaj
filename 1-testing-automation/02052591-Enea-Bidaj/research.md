@@ -60,4 +60,8 @@ However, there is still a need for human supervision. This is because although A
 
 ## 9. Conclusion
 
-[To be completed after research and reflection.]
+Artificial Intelligence is transforming the field of software testing, debugging, automation, and software maintenance. AI can assist engineers in test generation, bug understanding, identification of potential bugs, enhance test coverage and contribute to CI/CD practices. These can save time, enable engineers to catch bugs much earlier.
+
+However AI has some shortcomings and can sometimes produce misinterpreted requirements, tests, fixes and even defects which may have security implications or quality issues. Hence AI can not replace human software engineers but assist the human work processes.
+
+The main research outcome of this investigation is that, while the development process might become faster with AI the need for software engineers is likely to persist. The software engineer will continue to require knowledge in programming, testing, debugging, requirements, logic and verification. In the long term software engineers who can harness AI appropriately without forgetting the underlying concepts will prove the most valuable.

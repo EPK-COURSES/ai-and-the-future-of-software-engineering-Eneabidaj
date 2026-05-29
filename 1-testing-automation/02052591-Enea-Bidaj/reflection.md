@@ -25,6 +25,15 @@ Another opportunity I see with AI is with regard to teamwork. With large project
 All in all, I believe that AI can be an opportunity to increase efficiency, the ability to learn, and improve quality, but it must be implemented properly. The optimum opportunity that I see is the assistance of an engineer in performing tasks more efficiently, rather than replacing the engineer.
 ## 4. Skills that will remain important
 
+4. Skills That Will Remain Relevant
+
+Even with the development of AI, I believe strong programming fundamentals will continue to be critical for software engineers. AI will likely be able to suggest code, tests or bug fixes, but it will be the engineer that must ultimately determine whether these are correct. If an engineer lacks a solid grasp of programming logic, data structures, algorithms and syntax they may readily accept incorrect suggestions as being correct and introduce bugs or inefficiencies.
+
+Testing and debugging will also remain critical skills. Although AI may be capable of generating tests or suggesting potential bug locations, it is not always possible for AI to truly understand the true requirement of the software. An engineer must still be able to test edge cases, determine if output is correct, and reliably reproduce and confirm fixes for bugs.
+
+Understanding requirements will be another critical skill. Software engineering is much more than just writing code, it involves understanding the requirement from the user or the system. While an AI might be able to understand and work with the code itself, it doesn't understand the business need for the software or the overall intention of the software. Therefore communication, analytical and problem solving skills will remain paramount.
+
+I believe the best software engineers of the future will be those who can combine strong technical fundamentals with an intelligent and critical approach to utilizing AI, knowing when to question its suggestions and how to test its results thoroughly.
 ## 5. How I personally plan to adapt
 
 ## 6. Final reflection

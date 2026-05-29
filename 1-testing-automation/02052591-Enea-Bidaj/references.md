@@ -1,43 +1,40 @@
 # References
 
-1. GitHub Docs. "Writing tests with GitHub Copilot." GitHub Docs.  
-   https://docs.github.com/en/copilot/tutorials/write-tests
+1. Wang, J., Huang, Y., Chen, C., Liu, Z., Wang, S., & Wang, Q. (2023). *Software testing with large language models: Survey, landscape, and vision*. arXiv preprint arXiv:2307.07221.
+   Link: https://arxiv.org/abs/2307.07221
 
-2. GitHub Blog. "Does GitHub Copilot improve code quality? Here's what the data says." GitHub, 2024.  
-   https://github.blog/news-insights/research/does-github-copilot-improve-code-quality-heres-what-the-data-says/
+2. Schäfer, M., Nadi, S., Eghbali, A., & Tip, F. (2023). *An empirical evaluation of using large language models for automated unit test generation*. arXiv preprint arXiv:2302.06527.
+   Link: https://arxiv.org/abs/2302.06527
 
-3. Stack Overflow. "2025 Developer Survey." Stack Overflow, 2025.  
-   https://survey.stackoverflow.co/2025
+3. Yuan, Z., Lou, Y., Liu, M., Ding, S., Wang, K., Chen, Y., & Peng, X. (2023). *No more manual tests? Evaluating and improving ChatGPT for unit test generation*. arXiv preprint arXiv:2305.04207.
+   Link: https://arxiv.org/abs/2305.04207
 
-4. Google DORA. "State of AI-assisted Software Development 2025." DORA / Google Cloud, 2025.  
-   https://dora.dev/dora-report-2025/
+4. Chen, Y., Hu, Z., Zhi, C., Han, J., Deng, S., & Yin, J. (2023). *ChatUniTest: A framework for LLM-based test generation*. arXiv preprint arXiv:2305.04764.
+   Link: https://arxiv.org/abs/2305.04764
 
-5. Diffblue. "Diffblue — The AI Testing Agent for Enterprise Unit Testing." Diffblue.  
-   https://www.diffblue.com/
+5. Moradi Dakhel, A., Nikanjam, A., Majdinasab, V., Khomh, F., & Desmarais, M. C. (2023). *Effective test generation using pre-trained large language models and mutation testing*. arXiv preprint arXiv:2308.16557.
+   Link: https://arxiv.org/abs/2308.16557
 
-6. Microsoft .NET Blog. "GitHub Copilot Testing for .NET available in Visual Studio." Microsoft, 2026.  
-   https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/
+6. Alshahwan, N., Chheda, J., Finegenova, A., Gokkaya, B., Harman, M., Harper, I., Marginean, A., Sengupta, S., & Wang, E. (2024). *Automated unit test improvement using large language models at Meta*. Proceedings of the ACM on Software Engineering, 1(FSE), 185–196.
+   Link: https://discovery.ucl.ac.uk/id/eprint/10199775/1/RPS3.pdf
 
-7. Wang, J., Huang, Y., Chen, C., Liu, Z., Wang, S., and Wang, Q. "Software Testing with Large Language Models: Survey, Landscape, and Vision." arXiv, 2023.  
-   https://arxiv.org/abs/2307.07221
+7. Bhatia, S., Gandhi, T., Kumar, D., & Jalote, P. (2023). *Unit test generation using generative AI: A comparative performance analysis of autogeneration tools*. arXiv preprint arXiv:2312.10622.
+   Link: https://arxiv.org/abs/2312.10622
 
-8. Visual Studio Code Documentation. "Test with GitHub Copilot." Microsoft / Visual Studio Code.  
-   https://code.visualstudio.com/docs/copilot/guides/test-with-copilot
+8. Kang, S., Chen, B., Yoo, S., & Lou, J.-G. (2023). *Explainable automated debugging via large language model-driven scientific debugging*. arXiv preprint arXiv:2304.02195.
+   Link: https://arxiv.org/abs/2304.02195
 
-9. GitHub Docs. "Responsible use of GitHub Copilot Chat in your IDE." GitHub Docs.  
-   https://docs.github.com/en/copilot/responsible-use/chat-in-your-ide
+9. Majdoub, Y., & Ben Charrada, E. (2024). *Debugging with open-source large language models: An evaluation*. arXiv preprint arXiv:2409.03031.
+   Link: https://arxiv.org/abs/2409.03031
 
-10. GitHub Docs. "Asking GitHub Copilot questions in your IDE." GitHub Docs.  
-    https://docs.github.com/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide
+10. Yang, A. Z. H., Martins, R., Le Goues, C., & Hellendoorn, V. J. (2023). *Large language models for test-free fault localization*. arXiv preprint arXiv:2310.01726.
+    Link: https://arxiv.org/abs/2310.01726
 
-11. JetBrains Documentation. "Generate tests." JetBrains AI Assistant Documentation.  
-    https://www.jetbrains.com/help/ai-assistant/generate-tests-with-ai.html
+11. Xia, C. S., Wei, Y., & Zhang, L. (2023). *Automated program repair in the era of large pre-trained language models*. 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), 1482–1494.
+    Link: https://lingming.cs.illinois.edu/publications/icse2023a.pdf
 
-12. JetBrains TeamCity Documentation. "AI Assistant." JetBrains, 2026.  
-    https://www.jetbrains.com/help/teamcity/ai-assistant.html
+12. Fan, Z., Gao, X., Mirchev, M., Roychoudhury, A., & Tan, S. H. (2022). *Automated repair of programs from large language models*. arXiv preprint arXiv:2205.10583.
+    Link: https://arxiv.org/abs/2205.10583
 
-13. SonarSource. "AI Code Quality & Software Verification Tool." SonarSource.  
-    https://www.sonarsource.com/solutions/ai-code-quality/
-
-14. Snyk. "AI Code Generation: Code Security & Quality, Benefits, Risks, Top Tools." Snyk, 2025.  
-    https://snyk.io/blog/ai-code-generation-code-security-quality-benefits-risks-top-tools/
+13. Hou, X., Zhao, Y., Liu, Y., Yang, Z., Wang, K., Li, L., Luo, X., Lo, D., Grundy, J., & Wang, H. (2023). *Large language models for software engineering: A systematic literature review*. arXiv preprint arXiv:2308.10620.
+    Link: https://arxiv.org/abs/2308.10620

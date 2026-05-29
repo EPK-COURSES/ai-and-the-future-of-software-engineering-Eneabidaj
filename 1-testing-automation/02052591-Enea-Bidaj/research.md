@@ -2,9 +2,14 @@
 
 ## 1. Introduction
 
-Artificial Intelligence is starting to integrate into the development process for software and can be used to support testing, debugging, and automation. Previously the developers of software had to write most of the tests for the software manually, find errors by them-selves and to search the code for errors. However now Artificial Intelligence is being used to aid these areas; to generate tests, locate errors, provide solutions to bugs and to assist in many aspects of a software engineers job.
+AI has become an important component of software engineering today, especially in terms of software testing, debugging, automation, and software maintenance. Lately, there has been a lot of research performed on large language models as an assisting tool for developers that can generate test cases, refine existing test cases, help developers understand bugs, identify fault locations and provide code suggestions to repair the program (Wang et al., 2023; Hou et al., 2023). This indicates that AI is no longer closely associated only with code generation and more with the larger area of software verification and maintenance.
 
-It does not imply a position where engineers have to relax as test cases provided by AI and their solutions cannot always be relied upon. Tests generated from Artificial Intelligence need to be double checked as well as solutions and not blindly used. This research discusses the influence of Artificial Intelligence on testing, bug detection and automation; the problem issues, reliability constraints and skills that a software engineer still needs.
+In terms of software testing, AI assists software developers by being capable of generating test cases and unit tests, detecting missing test cases, and helping the developers reach better test coverage. Nevertheless, some studies indicate that AI-generated tests are not always correct or complete and should always be verified by a human tester. A test can succeed even though it is not really checking for the actual functionality (Schäfer et al., 2023; Yuan et al., 2023).
+
+In terms of debugging and bug fixing, AI assists the developers by being able to interpret error messages and fault causes, providing information and making suggestions to repair the code. Automated debugging and program repair research reveals that large language models have significant capabilities in assisting in these tasks, but they may fail to generate a correct repair (Kang et al., 2023; Xia et al., 2023). Thus, it is reasonable to use AI as a supportive assistant to the software engineers and not a complete replacement.
+
+The focus of this research is to observe how AI assists in the domain of testing, debugging, CI/CD automation and maintenance, discussing both the advantages and drawbacks that arise from using it, and how a higher degree of reliance can reduce software quality. The argument will be that AI can significantly speed up the work of a software engineer and boost productivity, but this does not eliminate the requirement for an understanding of requirements, careful testing and a logical approach to debugging and verification of the program itself.
+
 
 ## 2. Background
 

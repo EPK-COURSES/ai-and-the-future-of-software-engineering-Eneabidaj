@@ -25,7 +25,6 @@ Another opportunity I see with AI is with regard to teamwork. With large project
 All in all, I believe that AI can be an opportunity to increase efficiency, the ability to learn, and improve quality, but it must be implemented properly. The optimum opportunity that I see is the assistance of an engineer in performing tasks more efficiently, rather than replacing the engineer.
 ## 4. Skills that will remain important
 
-4. Skills That Will Remain Relevant
 
 Even with the development of AI, I believe strong programming fundamentals will continue to be critical for software engineers. AI will likely be able to suggest code, tests or bug fixes, but it will be the engineer that must ultimately determine whether these are correct. If an engineer lacks a solid grasp of programming logic, data structures, algorithms and syntax they may readily accept incorrect suggestions as being correct and introduce bugs or inefficiencies.
 

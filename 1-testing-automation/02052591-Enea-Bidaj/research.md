@@ -13,9 +13,16 @@ The focus of this research is to observe how AI assists in the domain of testing
 
 ## 2. Background
 
-Testing refers to checking whether a given software is working according to its requirements and that all its functionalities are in order. Finding mistakes in a program is called debugging and placing tests and processes within a program to ensure that tasks are completed over and over again as and when needed by using scripts and automation software tools this is what is known as Automation in software engineering.
+## 2. Background
 
-Artificial Intelligence can help in testing, debugging, and automation by analyzing code, suggesting test cases, helping developers understand errors, and assisting in the process of integrating and finalizing the developed software before releasing it to the general public.
+Software testing is the verification of a software system to satisfy its requirements, where the functionalities of software should operate in the manner expected. Testing is essential, since software might perform its task under normal conditions but might fail if invalid data is passed to it, abnormal actions are done on it, or due to some special cases. In test cases, the role of AI and large language models is to generate suitable test cases, identify the missing test cases, or enhance current test cases (Wang et al., 2023; Schäfer et al., 2023).
+
+Debugging is the process of locating, comprehending, and rectifying errors within software. In debugging, the developer often has to identify how the error occurs and reproduce the issue, then explore and fix the problematic code and test the fix. In debugging, AI assistance does not fully automate the fixing process of every error, but instead helps in the analysis, understanding of errors, and the locations of possible faults (Kang et al., 2023).
+
+Automation within software engineering is an aspect where repetitive manual work is automated using various software tools. This includes tasks such as running test cases, checking code, software builds, supporting CI/CD, and other relevant activities. Continuous Integration (CI) and Continuous Deployment (CD) are two software development practices where AI can support tasks such as understanding test failures and improving tests (Hou et al., 2023).
+
+Software maintenance refers to the modifications, corrections, and improvements made to software after its development. AI can aid in various tasks related to maintenance such as analyzing old programs to understand what the program does, and suggesting program repair or enhancement. However, based on automated program repair (APR) research, AI-proposed fixes might still need corrections or be partially complete (Xia et al., 2023).
+
 
 ## 3. AI-Generated Test Cases
 

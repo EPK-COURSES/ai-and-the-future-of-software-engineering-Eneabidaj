@@ -57,13 +57,15 @@ The main pitfall of having AI take the complete control overCI/CDor maintenance 
 
 ## 6. Advantages of AI in Testing and Debugging 
 
-In the areas of testing and debugging, AI is beneficial as it aids developers to work faster and reduces repetitive tasks. In testing, AI can help create initial test cases, provide suggestions for edge cases and assist the developer in thinking about conditions the team might have missed. This is beneficial since testing can take up a large amount of time, especially with larger projects, and when the checks need to cover numerous functions. Some tools like GitHub Copilot aid in the beginning of the test creation phase [1].
+6. Benefits of AI in Testing and Debugging
 
-Another benefit is increased test coverage. Test coverage is defined as how much of the code is tested by tests. Low coverage would result in undiscovered bugs until users experience them, and test suggestions can provide better coverage over the different portions of the application using the tool Diffblue that can generate unit tests to increase test coverage of codebases [5].
+AI provides multiple advantages in testing and debugging as it can assist in tasks that requires a lot of manual repetition. In testing, AI could help in generating a set of initial test cases, find missing cases, or even augment current test suite. This is especially beneficial since testing usually takes a lot of time, especially in a large project with many functions that need to be verified. Results from LLM studies also indicate that the LLM can effectively aid automated test generation and speed up test development (Wang et al., 2023; Schafer et al., 2023).
 
-In debugging, AI assists in the analysis of an error message by explaining what the error likely is and giving indications on how to start tackling it. This is beneficial for beginners as some error messages can be tricky, while it saves experienced developers time with large codebases and unfamiliar codebases of other authors.
+Another key benefit of AI in testing and debugging is it can aid in improving the test coverage of a project. Test coverage refers to the portion of the code which is executed during the tests. In an event where the test coverage is very low, bugs may not be discovered until when the software is being used by the actual user. Studies of AI in test generation and augmentation report that LLM can improve and generate tests for various parts of the program to potentially boost test coverage (Moradi Dakhel et al., 2023; Alshahwan et al., 2024).
 
-Finally, AI can also benefit teams with an early detection of bugs, with tests and CI/CD environments. Failure in tests, build errors, or reoccurring issues can be observed using AI, before sending any unstable software to the users. These advantages can only be useful if the developer checks the results provided by AI as while AI saves time and aids test processes, final responsibility lies with the software engineer.
+With regards to debugging, AI can assist software engineers in getting to the root cause of an error quickly. Instead of manually reviewing code logs for a period of time, engineers can quickly leverage AI tools to obtain insights about potential causes of the fault. LLM-based debugging research also demonstrates that AI can contribute in understanding errors and assisting with possible locations of the faults (Kang et al., 2023; Majdoub & Ben Charrada, 2024).
+
+The usage of AI in testing and debugging also has the potential to uncover problems early on during the development cycle. Through the integration of AI-assisted testing and debugging with automation and CI/CD processes, developers might discover problematic or weak test cases and frequently occurring bugs even before the release of the software. All these benefits can only be realized, if the engineer critically analyzes the outputs provided by the AI tool.
 
 ## 7. Risks and Limitations
 

@@ -43,7 +43,6 @@ Another aspect of my adaptation would be to use AI to enhance my learning method
 
 ## 6. Final reflection
 
-6. Final Reflection
 
 After finishing this research project, my overall impression on AI in software engineering is more neutral compared to prior my understanding. In fact, prior I just see AI in a programming aspect to make a programmer produce code faster. Then through this project, I realized AI is also relevant to testing, debugging, automation, maintenance, and software quality.
 

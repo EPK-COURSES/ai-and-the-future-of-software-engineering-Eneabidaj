@@ -35,4 +35,18 @@ Understanding requirements will be another critical skill. Software engineering 
 I believe the best software engineers of the future will be those who can combine strong technical fundamentals with an intelligent and critical approach to utilizing AI, knowing when to question its suggestions and how to test its results thoroughly.
 ## 5. How I personally plan to adapt
 
+For me personally, I aim to use AI as a learning and development tool, not as a replacement for my knowledge base. As I'm learning software engineering, I believe the fundamentals of programming, testing, debugging, algorithms and requirements should be acquired first; if I seek answers from an AI before this, I might receive quick results but my knowledge base might be very shallow.
+
+When I use AI tools in the future, I want to approach them with the intention that all outputs are suggestions to be verified. For example, if an AI gives me a test case or a fix for an error, I shouldn't simply paste it into my code; I need to read and analyze why it was suggested, run it in my application, and ensure it correctly resolves my issue. That way, I can leverage its speed but not be dependent.
+
+Another aspect of my adaptation would be to use AI to enhance my learning methods. If I get a piece of code I don't understand, or an error message I don't know the cause of, I will seek the explanation from an AI tool. However, after receiving the explanation, I should ensure I practice until I solve similar problems independently. Ultimately, I aspire to become a software engineer who uses AI cautiously and is knowledgeable enough to critically evaluate any results given by an AI.
+
 ## 6. Final reflection
+
+6. Final Reflection
+
+After finishing this research project, my overall impression on AI in software engineering is more neutral compared to prior my understanding. In fact, prior I just see AI in a programming aspect to make a programmer produce code faster. Then through this project, I realized AI is also relevant to testing, debugging, automation, maintenance, and software quality.
+
+I realized, most important thing is, even with AI support, a software engineer is still responsible for his work. Software engineer should also make sure that the requirements are understood, check test cases, verify fixed bugs, analyze critically in the end product and all. Any unanalyzed usage of AI tools is a potential risk instead of a solution.
+
+To sum up, I believe that AI will eventually become a standard feature in software engineering and it won't reduce the importance of qualified engineers; instead, it will require higher fundamental qualifications. Engineers who are good in both programming, testing, debugging, and analysis while wisely using AI tools will survive.
